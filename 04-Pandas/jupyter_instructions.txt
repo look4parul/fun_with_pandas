@@ -1,0 +1,6 @@
+# Jupyter Instructions
+1) `mkdir <folder>`
+2) `cd <folder>`
+3) `pipenv install ipykernel <other_package_1> <other_package_2> <other_package_...>`
+4) `pipenv shell`
+5) `python -m ipykernel install --user --display-name <display-name>`
