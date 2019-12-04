@@ -1,0 +1,4 @@
+
+# Ignore the csv files
+
+ignore election_data.csv
